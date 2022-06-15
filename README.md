@@ -2,8 +2,7 @@
 
 ### :smiley_cat: This is Yashar Zangbari
 
-### i can made my dream using MERN Stack Development 😄
-### i currently working at iGapMessenger at Front-end Developer .
+### i currently working at SnappFood at Front-end Developer .
 
 ## By the way here are some of my statistics 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=yasharzangbari&show_icons=true&theme=tokyonight)
